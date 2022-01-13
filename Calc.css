@@ -14,7 +14,7 @@ body{
     background: rgb(65, 65, 65);
     color: black;
     margin-left: 46%;
-    margin-top: 3%;
+    margin-top: 1%;
 }
 
 img{
@@ -52,7 +52,6 @@ img{
     margin-left: 100px;
 }
 
-
 p {
     margin-bottom: 30%;
     font-size: 25px;
@@ -64,4 +63,13 @@ p {
 .footer{
     margin-top: -50px;
     padding-bottom: 10px;
+}
+
+#footer{
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    background: grey;
+    margin-top: 50px;
+    font-size: 18px;
 }
